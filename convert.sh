@@ -1,3 +1,4 @@
+#!/bin/bash
 pythonfile="xmlTosrt.py"
 ytfile="youtube.xml"
 if [ -f $pythonfile ]
